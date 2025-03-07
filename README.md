@@ -1,6 +1,3 @@
-Here's a **well-structured and visually appealing GitHub README** for your **NFT Sales Analysis & Price Trends Exploration** project.  
-
----
 
 ### **📌 NFT Sales Analysis & Price Trends Exploration**  
 
@@ -32,9 +29,17 @@ The dataset contains over 1 million NFT transactions, including asset details, s
 ![image](https://github.com/user-attachments/assets/17e4338e-f820-44a6-9cbd-8a8c422f5484)
 
 
-### **2️⃣ Most Expensive Assets & Collections**  
-💰 **Bar chart showing the most expensive NFT assets.**  
+### **2️⃣ Most Transaction Collections**  
+![image](https://github.com/user-attachments/assets/32668c98-d3cc-490b-b280-ff8524d5175a)
 
+3️⃣ 
+4️⃣ 
+5️⃣ 
+6️⃣ 
+7️⃣
+8️⃣ 
+9️⃣ 
+🔟 
 
 ## **🛠️ Tech Stack**  
 ✅ **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
